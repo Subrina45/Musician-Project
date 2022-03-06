@@ -1,0 +1,43 @@
+table{
+    width: 100%
+}
+table, th, td {
+    border: 1px solid palevioletred;
+    border-collapse: collapse;
+}
+h1 {
+    color: rgb(228, 117, 228);
+    border-style: dotted;
+}
+h2 {
+    color: darkcyan;
+    border-style: dotted;
+}
+p1{
+    color:plum;
+    margin: 20px;
+    padding: 40px;
+    
+}
+p2{
+    color:plum;
+    margin: 20px;
+    padding: 40px;
+}
+p3{
+    color:plum;
+    margin: 20px;
+    padding: 40px;
+}
+p4{
+    color:plum;
+    margin: 20px;
+    padding: 40px;
+}
+.flex-container > div{
+    background-color:aliceblue;
+    margin: 20px;
+    padding: 40px;
+    font-size: 10px;
+    
+}
