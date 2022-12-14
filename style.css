@@ -6,7 +6,7 @@ table, th, td {
     border-collapse: collapse;
 }
 h1 {
-    color: rgb(228, 117, 228);
+    color: rgb(223, 162, 223);
     border-style: dotted;
 }
 h2 {
@@ -34,10 +34,20 @@ p4{
     margin: 20px;
     padding: 40px;
 }
+p5{
+    color:plum;
+    margin: 20px;
+    padding: 40px;
+}
 .flex-container > div{
     background-color:aliceblue;
     margin: 20px;
     padding: 40px;
     font-size: 10px;
     
+}
+tr{
+    color:rgb(236, 181, 199);
+    margin: 20px;
+    padding: 40px;
 }
